@@ -19,4 +19,4 @@ online web design using reactjs
     * Potatoes
     * Spinach
     * Onions
- [google](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+ [google](www.google.com)
