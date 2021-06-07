@@ -19,4 +19,4 @@ online web design using reactjs
     * Potatoes
     * Spinach
     * Onions
- [google](www.google.com)
+ [google](http://git-scm.com/download/win)
